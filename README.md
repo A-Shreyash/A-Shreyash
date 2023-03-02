@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shreyash Sompurkar</h1>
+<h1 align="center">Hi 👋, I'm Shreyash </h1>
 <h3 align="center">A passionate Graphics Designer,frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-shreyash&label=Profile%20views&color=0e75b6&style=flat" alt="a-shreyash" /> </p>
